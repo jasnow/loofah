@@ -4,3 +4,5 @@ pkg
 tmp
 Gemfile.lock
 .bundle
+# Added this to not force others to use them.
+.overcommit.yml
